@@ -1,0 +1,4 @@
+Boundry num (value==1)   750
+Inside num  (value==2)   9365788
+Outside num (value==0)   9479236
+Total                    18845774

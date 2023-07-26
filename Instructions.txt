@@ -1,0 +1,18 @@
+* Fill out the missing lines of code in Problem3.cpp.
+
+* Compile the code in Problem3.cpp and run it.
+
+* Paste the command you used to compile below here:
+mkdir build
+cd build
+cmake ..
+make
+# to run:
+./solveproblem
+
+
+* Paste the output of the program below here:
+Boundry num (value==1):   750
+Inside num  (value==2):   9365788
+Outside num (value==0):   9479236
+Total                 :   18845774
